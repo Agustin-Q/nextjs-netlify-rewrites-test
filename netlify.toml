@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/blog/*"
+  to = "https://blog.debmedia.com/:splat"
+  status = 200
