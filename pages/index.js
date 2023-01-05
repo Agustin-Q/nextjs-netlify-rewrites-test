@@ -47,6 +47,9 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <div>
+          <a href='/blog'>Go to Blog!</a>
+        </div>
       </main>
 
       <footer>
