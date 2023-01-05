@@ -48,7 +48,7 @@ export default function Home() {
           </a>
         </div>
         <div>
-          <a href='/blog'>Go to Blog!</a>
+          <a href='/blog/'>Go to Blog!</a>
         </div>
       </main>
 
