@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/blog/*"
-  to = "https://blog.debmedia.com/:splat"
+  to = "https://dev-mpcorp-wptest.pantheonsite.io/:splat"
   status = 200
