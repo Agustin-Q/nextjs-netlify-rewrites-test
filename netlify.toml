@@ -5,5 +5,5 @@
 
   [[redirects]]
   from = "/deb-blog/*"
-  to = "blog.debmedia.com/:splat"
+  to = "https://blog.debmedia.com/:splat"
   status = 200
